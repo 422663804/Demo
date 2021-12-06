@@ -1,0 +1,4 @@
+这是一段测试文字,Write操作如果文件不存在，则自动创建一个文件
+如果文件存在 看用了那个构造器Write(file,false)/Write(file) 将自动覆盖文件
+构造器Write(file,true),将会追加文字在其文件后面
+abcd
